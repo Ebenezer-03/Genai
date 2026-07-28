@@ -1,0 +1,16 @@
+============================================================
+EXPERIMENT 3: CONVERSATIONAL CHATBOT
+============================================================
+
+Initializing Chatbot (distilgpt2)...
+
+--- Starting Conversation ---
+
+User: Hello! Who are you?
+Bot: Hello! I am a small game developer. I am a programmer and I have a lot of ideas and ideas for the game. I always want to make a game that is fun, fun, fun
+
+User: Can you explain what Artificial Intelligence is in simple terms?
+Bot: I am a programmer and I have a lot of ideas for the game. I always want to make a game that is fun, fun, fun, fun, fun, fun, fun, fun,
+
+User: Thank you for the explanation!
+Bot: Well, I am able to make a game that is fun to play, to be funny, to be fun, to be funny, to be funny, to be funny, to be funny, to

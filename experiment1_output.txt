@@ -1,0 +1,26 @@
+============================================================
+EXPERIMENT 1: TEXT GENERATION
+============================================================
+
+Loading text-generation pipeline (distilgpt2)...
+
+Prompt: Artificial Intelligence is transforming the future of
+
+Generating text...
+
+Generated Text Output:
+----------------------------------------
+Artificial Intelligence is transforming the future of the Internet.
+
+
+
+
+
+The artificial intelligence is transforming the future of the Internet.
+
+
+
+
+
+In the next week, we'll be hearing from the experts in computer
+----------------------------------------

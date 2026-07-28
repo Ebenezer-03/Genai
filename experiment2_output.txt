@@ -1,0 +1,48 @@
+============================================================
+EXPERIMENT 2: PROMPT ENGINEERING
+============================================================
+
+--- 1. Zero-Shot Prompt ---
+Prompt:
+Translate the following English sentence to French: Hello, how are you?
+Output:
+Translate the following English sentence to French: Hello, how are you? I'm trying to help. Thank you for your support.
+
+Hi,
+Hello,
+
+
+--- 2. Few-Shot Prompt ---
+Prompt:
+Classify sentiment as Positive or Negative.
+Input: Great product! -> Sentiment: Positive
+Input: Terrible experience. -> Sentiment: Negative
+Input: Loved the customer service! -> Sentiment:
+Output:
+Classify sentiment as Positive or Negative.
+Input: Great product! -> Sentiment: Positive
+Input: Terrible experience. -> Sentiment: Negative
+Input: Loved the customer service! -> Sentiment: Negative
+Input: Great product! -> Sentiment
+
+--- 3. Chain-of-Thought Prompt ---
+Prompt:
+Q: Roger has 5 tennis balls. He buys 2 more cans of tennis balls. Each can has 3 tennis balls. How many tennis balls does he have now?
+A: Let's think step by step.
+Roger started with 5 balls. 2 cans of 3 tennis balls is 6 tennis balls. 5 + 6 = 11.
+The answer is 11.
+
+Q: Sarah has 10 apples. She gives 3 to her friend and eats 2. How many apples does she have left?
+A: Let's think step by step.
+
+Output:
+Q: Roger has 5 tennis balls. He buys 2 more cans of tennis balls. Each can has 3 tennis balls. How many tennis balls does he have now?
+A: Let's think step by step.
+Roger started with 5 balls. 2 cans of 3 tennis balls is 6 tennis balls. 5 + 6 = 11.
+The answer is 11.
+
+Q: Sarah has 10 apples. She gives 3 to her friend and eats 2. How many apples does she have left?
+A: Let's think step by step.
+Q: Sarah has 12 apples. She gives 3 to her friend and eats 2. How many apples does she have left?
+A: Let's think step by step.
+Q: Sarah has

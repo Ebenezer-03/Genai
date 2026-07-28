@@ -1,0 +1,29 @@
+============================================================
+EXPERIMENT 4: TEXT SUMMARIZATION & QUESTION ANSWERING
+============================================================
+
+--- Context Document ---
+Generative Artificial Intelligence (Generative AI) refers to deep-learning models that can create high-quality text, images, code, and other content based on the data they were trained on. Unlike traditional AI models that analyze or classify data, Generative AI focuses on creation. Popular examples include ChatGPT by OpenAI, Claude by Anthropic, and Stable Diffusion for image generation.
+
+Loading model pipeline (distilgpt2)...
+
+--- 1. Text Summarization ---
+Summary Output:
+----------------------------------------
+Text: Generative Artificial Intelligence (Generative AI) refers to deep-learning models that can create high-quality text, images, code, and other content based on the data they were trained on. Unlike traditional AI models that analyze or classify data, Generative AI focuses on creation. Popular examples include ChatGPT by OpenAI, Claude by Anthropic, and Stable Diffusion for image generation.
+TL;DR / Summary: Generative Artificial Intelligence is a machine learning technique for generating large amounts of data. It is designed to improve the accuracy of images and images. It is currently a highly-touted and active research and
+----------------------------------------
+
+--- 2. Question Answering ---
+
+Question: What does Generative AI create?
+Generated Output:
+Context: Generative Artificial Intelligence (Generative AI) refers to deep-learning models that can create high-quality text, images, code, and other content based on the data they were trained on. Unlike traditional AI models that analyze or classify data, Generative AI focuses on creation. Popular examples include ChatGPT by OpenAI, Claude by Anthropic, and Stable Diffusion for image generation.
+Question: What does Generative AI create?
+Answer: Generative AI is a real-world network of machines (like, for example, Facebook, Google, and Facebook) that
+
+Question: What is an example of an image generation model?
+Generated Output:
+Context: Generative Artificial Intelligence (Generative AI) refers to deep-learning models that can create high-quality text, images, code, and other content based on the data they were trained on. Unlike traditional AI models that analyze or classify data, Generative AI focuses on creation. Popular examples include ChatGPT by OpenAI, Claude by Anthropic, and Stable Diffusion for image generation.
+Question: What is an example of an image generation model?
+Answer: Generative AI is the concept of what is an artificial intelligence that can be produced by a human in an effort to produce a

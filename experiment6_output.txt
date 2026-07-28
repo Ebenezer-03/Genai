@@ -1,0 +1,13 @@
+============================================================
+EXPERIMENT 6: RETRIEVAL-AUGMENTED GENERATION (RAG)
+============================================================
+
+User Query: What is RAG?
+
+--- 1. Retrieved Document Context ---
+Python is a high-level, interpreted programming language known for readability.
+
+--- 2. RAG Generated Response ---
+Context: Python is a high-level, interpreted programming language known for readability.
+Question: What is RAG?
+Answer: A low-level, interpreted programming language that is written in Python, which is a low-level Python language. It is a Python-based language

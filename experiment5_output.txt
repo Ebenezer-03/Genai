@@ -1,0 +1,15 @@
+============================================================
+EXPERIMENT 5: SENTIMENT & DOCUMENT CLASSIFICATION
+============================================================
+
+--- 1. Sentiment Analysis ---
+Analyzing sentiment for sample sentences...
+
+Text:  'This product exceeded all my expectations, absolutely wonderful!'
+Label: POSITIVE (Confidence: 0.9999)
+
+Text:  'The service was terrible and the staff was extremely rude.'
+Label: NEGATIVE (Confidence: 0.9997)
+
+Text:  'It was an average movie, nothing special but okay.'
+Label: POSITIVE (Confidence: 0.9966)
