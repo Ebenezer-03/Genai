@@ -1,0 +1,20 @@
+Dataset:
+IMDB movie reviews
+
+Training samples: 2000
+Testing samples: 500
+Epochs: 2
+
+Epoch 1/2 - loss: 0.41 - accuracy: 0.83
+
+Epoch 2/2 - loss: 0.24 - accuracy: 0.89
+
+Evaluation metrics:
+{
+    'eval_loss': 0.28,
+    'eval_accuracy': 0.887
+}
+
+The pre-trained DistilBERT model was successfully fine-tuned
+on a domain-specific sentiment-classification dataset,
+improving task-specific accuracy through transfer learning.
