@@ -1,0 +1,13 @@
+Image: Dog running in a field
+
+Question:
+What animal is in the picture?
+
+Generated Caption: a dog running through a grassy field
+
+Question: What animal is in the picture?
+Answer: dog
+
+A multimodal AI application integrating text and image inputs
+was successfully developed using the BLIP model, performing
+both image captioning and visual question answering.
